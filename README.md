@@ -33,3 +33,12 @@ Project lampu LED warna-warni menggunakan Arduino dan ESP32.
 4. Kontrol via browser
 
 ## 📁 Struktur Project
+```
+
+led-rainbow-project/
+├──src/
+│├── arduino/led_rainbow.ino
+│└── esp32/led_wifi_control.ino
+└──README.md
+
+```
