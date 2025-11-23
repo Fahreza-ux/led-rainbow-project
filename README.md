@@ -42,3 +42,10 @@ led-rainbow-project/
 └──README.md
 
 ```
+
+
+## 🤝 Kontribusi
+Silakan fork dan tambahkan efek baru!
+
+---
+**Dibuat dengan ❤️ untuk komunitas maker**
