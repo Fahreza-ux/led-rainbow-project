@@ -45,4 +45,3 @@ Silakan fork dan tambahkan efek baru!
 
 ---
 **Dibuat dengan ❤️ untuk komunitas maker**
-```
