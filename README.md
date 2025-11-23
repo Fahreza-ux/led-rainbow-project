@@ -1,6 +1,3 @@
-# led-rainbow-project
-Project Lampu Led Warna - Warni  Arduino  ESP 32
-
 # 🌈 LED Rainbow Project
 
 Project lampu LED warna-warni menggunakan Arduino dan ESP32.
@@ -43,9 +40,9 @@ led-rainbow-project/
 
 ```
 
-
 ## 🤝 Kontribusi
 Silakan fork dan tambahkan efek baru!
 
 ---
 **Dibuat dengan ❤️ untuk komunitas maker**
+```
